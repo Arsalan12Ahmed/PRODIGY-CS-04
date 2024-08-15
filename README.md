@@ -1,1 +1,1 @@
-# PRODIGY-CS-04
+In this C++ code i implemented a basic keylogger for Windows platform. It captures keystrokes asynchronously, logging them to a file named "Record.txt". The program runs until terminated by pressing Ctrl+C.
